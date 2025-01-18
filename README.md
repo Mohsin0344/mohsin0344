@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsin0344&label=Profile%20views&color=0e75b6&style=flat" alt="mohsin0344" /> </p>
 
-- 🔭 I’m currently working on **Kula.io**
+- 🔭 I’m currently working on **Jetzy**
 
 - 🌱 I’m currently learning **swiftUI & kotlin compose**
 
